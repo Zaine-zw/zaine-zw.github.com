@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：张伟
+#### 学历：本科
+#### 学校：浙江万里学院
+#### 地址：江苏苏州
 
-You can use the [editor on GitHub](https://github.com/Zaine-zw/zaine-zw.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 兴趣爱好
+#### 看书、踢球、跑步
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 学习经历
+- 小学：昆山市力量小学
+- 初中：昆山市城北中学
+- 高中：昆山震川高级中学
+- 本科：浙江万里学院
 
-### Markdown
+### 个人目标
+- 近期：完成校内学习任务，课外丰富人生阅历，考研，考证，为未来铺路。
+- 长期：找一份稳定工作，回报父母。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zaine-zw/zaine-zw.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我评价
+-性格开朗，积极向上。为人细心，做事一丝不苟，能吃苦耐劳。工作学习认真负责，尊重师长父母，热情帮助身边的人。为人诚实，正直，有正能量。
