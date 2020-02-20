@@ -1,10 +1,13 @@
 <table border="0">
+    <tr>
     <td width="75%">
       <h1>张伟</h1>
       <p><b>在读本科生</b></p>
       <p><b>浙江万里学院</b></p>
       <p><b>邮箱：1720371153@qq.com</b></p>
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里学院</b></p>
+      <p><b>电话：13390855492</b></p>
+      <p><b>微信：zw1720371153</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.png" width="100%">      
