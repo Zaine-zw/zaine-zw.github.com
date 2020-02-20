@@ -1,5 +1,4 @@
 <table border="0">
-  <tr>
     <td width="75%">
       <h1>张伟</h1>
       <p><b>在读本科生</b></p>
