@@ -1,5 +1,5 @@
 ![图片描述](图片链接)
-![证件照](/zhengjianzhao.jpg)
+![证件照](/图片1.png)
 <table border="0">
   <tr>
     <td width="75%">
